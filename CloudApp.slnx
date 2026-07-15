@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../CloudMate/CloudMate.Server/CloudMate.Server.csproj" />
+  <Project Path="CloudApp/CloudApp.csproj" Id="f08093a7-a58a-4d7c-b59f-7331d1016bd3" />
+  <Project Path="CloudApp.Maui/CloudApp.Maui.csproj" Id="a6a41706-6bed-4404-9ca6-a28c09695f06" />
+  <Project Path="CloudApp.Packing/CloudApp.Packing.csproj" Id="1f0a5414-617e-4fe4-8bbd-99fec72c9015" />
+</Solution>
