@@ -1,6 +1,6 @@
 # CloudApp
 
-[![Website](https://img.shields.io/badge/Website-angrymonkeycloud.com-0B5FFF?style=flat-square&logo=googlechrome&logoColor=white)](https://angrymonkeycloud.com)
+[![Website](https://img.shields.io/badge/Website-angrymonkeycloud.com-0B5FFF?style=flat-square&logo=googlechrome&logoColor=white)](https://angrymonkeycloud.com/cloudapp)
 [![GitHub repository](https://img.shields.io/badge/GitHub-CloudApp-181717?style=flat-square&logo=github)](https://github.com/angrymonkeycloud/CloudApp)
 [![.NET](https://img.shields.io/badge/.NET-10-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 
